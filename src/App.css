@@ -1,0 +1,18 @@
+.app {
+  text-align: center;
+
+}
+
+.app-header {
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
